@@ -1,0 +1,17 @@
+html,body,h1,h2,h3,h4,h5,h6,p,div,ul,li,dt,dl,dd,input,button,a {
+    padding : 0 ;
+    margin : 0 ;
+    box-sizing: border-box;
+}
+html,body {
+    background-color: #fff;
+}
+input,button {
+    outline: none;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}

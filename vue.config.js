@@ -12,6 +12,8 @@ module.exports = {
         resolve: {
           alias: {
             '_v': resolve('src/views'),
+            '_c': resolve('src/components/common'),
+            '_js': resolve('src/config')
           }
         }
       },
